@@ -14,7 +14,7 @@ El código morse es el siguiente:
         J: .---   K: -.-    L: .-..
         M: --     N: -.     O: ---
         P: .--.   Q: --.-   R: .-.
-     	  S: ...    T: -      U: ..-
+     	S: ...    T: -      U: ..-
         V: ...-   W: .--    X: -..-
         Y: -.--   Z: --..   
         
