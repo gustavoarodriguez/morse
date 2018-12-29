@@ -12,7 +12,7 @@ Al ejecutar el programa, te pedirá introducir el mensaje que quieres convertir.
 
 ### Texto
 
-Los mensajes en texto puede se pueden introducir tanto en mayúsculas como en minúsculas pero la salida de morse-texto es en mayúsculas. 
+Los mensajes en texto se pueden introducir tanto en mayúsculas como en minúsculas pero la salida de morse-texto es en mayúsculas. 
 
 ### Morse
 
