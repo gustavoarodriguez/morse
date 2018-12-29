@@ -16,4 +16,4 @@ El texto puede se puede introducir tanto en mayúsculas como en minúsculas pero
 
 ### Morse
 
-Las letras están separadas por un espacio y las palabras por 3 espacios.
+En la salida las letras están separadas por un espacio y las palabras por 3 espacios. Los mensajes en morse se deben introducir siguiendo este mismo formato.
