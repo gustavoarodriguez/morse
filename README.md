@@ -4,7 +4,8 @@ rodriguezsanchezg.a@gmail.com
 
 # MORSE
 
-Permite convertir un mensaje de texto a código morse o viceversa.
+
+Convierte un mensaje de texto a código morse o viceversa.
 
 El código morse es el siguiente:
 
